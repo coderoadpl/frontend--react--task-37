@@ -5,7 +5,7 @@ import './styles.css'
 export const ButtonRed = () => {
   return (
     <button
-      className={'button'}
+      className={'ButtonRed-button'}
     >
       ButtonRed
     </button>
